@@ -1,1 +1,1 @@
-# MyChat---Mini-Project-1
+# MyChat - where people connect
